@@ -1,4 +1,18 @@
-Name: Abiodun Abolarinwa
-email: biocell007@gmail.com
-slack username: biocell
-tracks: backend (php and node.js)
+
+    <!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>My start.ng details</title>
+        
+        </head>
+    <body>
+        <span>
+        <p>Name: Abiodun Abolarinwa</p>
+        <p>Email Address: biocell007@gmail.com</p>
+        <p>Slack Username: biocell</p>
+        <p>Tracks: Backend(PHP and Node.JS)</p>
+    </span>
+    </body>
+</html>
